@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33209.295
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_02", "Chapter_02\Chapter_02.csproj", "{07E0F3CE-CB92-41B3-930F-16F6B2EE4B7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_03_NeedForSpeed", "Chapter_03_NeedForSpeed\Chapter_03_NeedForSpeed.csproj", "{AE8ACDAC-15D3-4CC9-A50F-C3689E9553E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{07E0F3CE-CB92-41B3-930F-16F6B2EE4B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E0F3CE-CB92-41B3-930F-16F6B2EE4B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07E0F3CE-CB92-41B3-930F-16F6B2EE4B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8ACDAC-15D3-4CC9-A50F-C3689E9553E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8ACDAC-15D3-4CC9-A50F-C3689E9553E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8ACDAC-15D3-4CC9-A50F-C3689E9553E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8ACDAC-15D3-4CC9-A50F-C3689E9553E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
