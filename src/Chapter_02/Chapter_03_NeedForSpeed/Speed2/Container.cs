@@ -59,7 +59,7 @@ namespace Chapter_03_NeedForSpeed.Speed2
 			}
 			while (current != this);
 
-			return totalAmount;
+			return newAmount;
 		}
 
 
