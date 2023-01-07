@@ -46,5 +46,15 @@ namespace Chapter_02
 				container._amount = newTotalAmount;
 			}
 		}
+
+		public void AddWater(double amount)
+		{
+			var newAmountPerContainer = amount / _group.Count;
+			foreach (var item in _group)
+			{
+				item._amount = newAmountPerContainer;
+			}
+		}
+		
 	}
 }
